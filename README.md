@@ -17,7 +17,7 @@ In this project, I was required to create a simple Personal Portfolio website.
 ## Useful Links
 
 - **Project URL:**  
-  View the detailed description and updates for my [Basic HTML project](https://roadmap.sh/projects/portfolio-website) on roadmap.sh.
+  View the detailed description and updates for my [Personal Portfolio project](https://roadmap.sh/projects/portfolio-website) on roadmap.sh.
 
 - **Support My Solution:**  
   If you like my solution for the changelog project, [please upvote it here](https://roadmap.sh/projects/basic-html-website/solutions?u=6771443070129741a8ecdc00). Your support means a lot! 👍
